@@ -9,7 +9,7 @@
 + location    : Portugal
 + university  : Universidade da Madeira
 + course      : Engenharia Informática
-+ year        : 2nd
++ year        : 3rd
 
 + interests   :
 +   - systems & networking
